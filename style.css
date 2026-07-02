@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    font-family: "Geist", sans-serif;
+}
+
+body{
+    background-color: #0f1a17;
+    min-height: 100vh;
+}
+
